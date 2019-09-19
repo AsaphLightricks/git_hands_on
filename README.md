@@ -1,2 +1,2 @@
-# git_hands_on
+# Git Hands-On
 learning git stuff
